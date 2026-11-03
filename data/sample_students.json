@@ -1,0 +1,24 @@
+
+[
+    {
+        "student_id": "STU001",
+        "name": "Aarav Sharma",
+        "email": "aarav@example.test",
+        "marks": 85,
+        "course": "Computer Science"
+    },
+    {
+        "student_id": "STU002",
+        "name": "Riya Patil",
+        "email": "riya@example.test",
+        "marks": 91,
+        "course": "Artificial Intelligence"
+    },
+    {
+        "student_id": "STU003",
+        "name": "Kabir Deshmukh",
+        "email": "kabir@example.test",
+        "marks": 78,
+        "course": "Data Analytics"
+    }
+]
